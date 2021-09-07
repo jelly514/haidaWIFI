@@ -8,6 +8,8 @@
   https://github.com/jelly514/gdou/releases/download/1/default.zip
   点击下载
 
+目前发现多人反馈小米系路由器没有lan口配置和网关、子关掩码配置的选项！！这会导致它无法用作路由器#2！
+
 
   贴吧吧务不让发，只能麻烦各位尽量传递给要到学校的师弟师妹们了
  
