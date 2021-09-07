@@ -1,8 +1,8 @@
-# 广东天翼校园的双路由分享法教程（2021.9.7）
+# 广东天翼校园的全平台双路由分享法教程（2021.9.7）
 
 
 
-优点：一劳永逸（目前限Windows），且相比mac法稳定，理论可能上比lily还稳（用了官方客户端）
+优点：一劳永逸（目前限Windows），理论上支持所有平台，且相比mac法稳定，可能比lily还稳（用了官方客户端）
 
 
   https://github.com/jelly514/gdou/releases/download/1/default.zip
