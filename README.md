@@ -5,7 +5,7 @@
 优点：一劳永逸（目前限Windows），理论上支持所有平台，且相比mac法稳定，可能比lily还稳（用了官方客户端）
 
 
-  https://github.com/jelly514/gdou/releases/download/1/default.zip
+  https://codeload.github.com/jelly514/haidaWIFI/zip/refs/heads/main
   点击下载
 
 目前发现多人反馈小米系路由器没有lan口配置和网关、子关掩码配置的选项！！这会导致它无法用作路由器#2！
